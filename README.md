@@ -31,15 +31,15 @@ If you are a try and learn developer, you can start trying the vue3-histogram-sl
 
 ## 📦 Installation    
 ### yarn
-`yarn add vue3-histogram-slider`
+`yarn add @pereira234/vue3-histogram-slider-v2`
 
 ### npm
-`npm i vue3-histogram-slider`
+`npm i @pereira234/vue3-histogram-slider-v2`
 
 ## 🔧 Usage
 ```js
-import HistogramSlider from "vue3-histogram-slider";
-import "vue3-histogram-slider/dist/histogram-slider.css";
+import HistogramSlider from "@pereira234/vue3-histogram-slider-v2";
+import "@pereira234/vue3-histogram-slider-v2/dist/histogram-slider.css";
 ...
 app.component(HistogramSlider.name, HistogramSlider);
 ```
