@@ -19,7 +19,12 @@ If you are a try and learn developer, you can start trying the vue3-histogram-sl
   <img alt="Edit Vue Histogram Slider" src="https://codesandbox.io/static/img/play-codesandbox.svg">
 </a>
 
-
+<p>
+    <b>FORK UPDATES:</b>
+    <ul>
+        <li>Add new <code>from</code> and <code>to</code> props to allow pre-selecting a min/max range</li>
+    </ul>
+</p>
 <p align="center">
     <img src="https://github.com/phedone/vue3-histogram-slider/raw/master/resources/histogram-slider-demo.gif">
 </p>
@@ -53,6 +58,8 @@ Property |Type|Default|Description
 ---|:---:|:---:|---
 min|number|1|Set slider minimum value
 max|number|100|Set slider maximum value
+from|number|1|Set slider start value
+to|number|100|Set slider end value
 data|array| - |Data for histogram
 block|boolean|false|Locks slider and makes it inactive
 grid|boolean|true|Enables grid of values.
