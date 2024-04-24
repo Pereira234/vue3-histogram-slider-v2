@@ -38,8 +38,8 @@ If you are a try and learn developer, you can start trying the vue3-histogram-sl
 
 ## 🔧 Usage
 ```js
-import HistogramSlider from "@pereira234/vue3-histogram-slider-v2";
-import "@pereira234/vue3-histogram-slider-v2/dist/histogram-slider.css";
+import HistogramSlider from "vue3-histogram-slider-v2";
+import "vue3-histogram-slider-v2/dist/histogram-slider.css";
 ...
 app.component(HistogramSlider.name, HistogramSlider);
 ```
