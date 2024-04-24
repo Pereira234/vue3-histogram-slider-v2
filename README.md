@@ -31,10 +31,10 @@ If you are a try and learn developer, you can start trying the vue3-histogram-sl
 
 ## 📦 Installation    
 ### yarn
-`yarn add @pereira234/vue3-histogram-slider-v2`
+`yarn add vue3-histogram-slider-v2`
 
 ### npm
-`npm i @pereira234/vue3-histogram-slider-v2`
+`npm i vue3-histogram-slider-v2`
 
 ## 🔧 Usage
 ```js
