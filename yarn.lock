@@ -1574,33 +1574,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@pereira234/vue3-histogram-slider-v2@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "@pereira234/vue3-histogram-slider-v2@workspace:."
-  dependencies:
-    "@vue/cli-plugin-babel": "npm:~4.5.13"
-    "@vue/cli-plugin-eslint": "npm:~4.5.13"
-    "@vue/cli-service": "npm:~4.5.13"
-    "@vue/compat": "npm:^3.1.0"
-    "@vue/compiler-sfc": "npm:^3.1.0"
-    "@vue/eslint-config-prettier": "npm:^6.0.0"
-    babel-eslint: "npm:^10.1.0"
-    core-js: "npm:^3.6.5"
-    d3-array: "npm:^3.2.4"
-    d3-brush: "npm:^3.0.0"
-    d3-scale: "npm:^4.0.2"
-    d3-selection: "npm:^3.0.0"
-    d3-transition: "npm:^3.0.1"
-    eslint: "npm:^6.7.2"
-    eslint-plugin-prettier: "npm:^3.3.1"
-    eslint-plugin-vue: "npm:^6.2.2"
-    jquery: "npm:3.5"
-    lint-staged: "npm:^8.1.5"
-    prettier: "npm:^2.2.1"
-    vue: "npm:^3.1.0"
-  languageName: unknown
-  linkType: soft
-
 "@pkgjs/parseargs@npm:^0.11.0":
   version: 0.11.0
   resolution: "@pkgjs/parseargs@npm:0.11.0"
@@ -12942,6 +12915,33 @@ __metadata:
   checksum: 21d27d1c6afe10a47f17793e18afb7f321888d3ca728bfdb2a79ff49789ed9b40e98abcb68b5499f3da1bbb76a0f188b94aeb5ab0e879f46d6399ac5d4ae38c8
   languageName: node
   linkType: hard
+
+"vue3-histogram-slider-v2@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "vue3-histogram-slider-v2@workspace:."
+  dependencies:
+    "@vue/cli-plugin-babel": "npm:~4.5.13"
+    "@vue/cli-plugin-eslint": "npm:~4.5.13"
+    "@vue/cli-service": "npm:~4.5.13"
+    "@vue/compat": "npm:^3.1.0"
+    "@vue/compiler-sfc": "npm:^3.1.0"
+    "@vue/eslint-config-prettier": "npm:^6.0.0"
+    babel-eslint: "npm:^10.1.0"
+    core-js: "npm:^3.6.5"
+    d3-array: "npm:^3.2.4"
+    d3-brush: "npm:^3.0.0"
+    d3-scale: "npm:^4.0.2"
+    d3-selection: "npm:^3.0.0"
+    d3-transition: "npm:^3.0.1"
+    eslint: "npm:^6.7.2"
+    eslint-plugin-prettier: "npm:^3.3.1"
+    eslint-plugin-vue: "npm:^6.2.2"
+    jquery: "npm:3.5"
+    lint-staged: "npm:^8.1.5"
+    prettier: "npm:^2.2.1"
+    vue: "npm:^3.1.0"
+  languageName: unknown
+  linkType: soft
 
 "vue@npm:^3.1.0":
   version: 3.4.25
